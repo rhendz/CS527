@@ -1,0 +1,65 @@
+Experiment 3: J1 = 1, J2 = -.1
+VISUAL OBSERVATIONS
+1. R1=1, R2=2, h=0			Fairly thin zebra stripes
+
+//the bias hugely decides which pattern the system follows
+*2. R1=1, R2=5, h=-4			Most cells go to white 
+3. R1=1, R2=5, h=-2			Mostly white, but with several small black stripes
+*4. R1=1, R2=5, h=0			Intermixed white and black stripes
+5. R1=1, R2=5, h=2			Primarily black, with few white stripes
+*6. R1=1, R2=5, h=4			Almost entirely black dominated, with a few white cells
+
+//mostly thin stripes, with the bias deciding which color dominates
+7. R1=1, R2=9, h=-6			Mostly white, with several diagonal black stripes
+8. R1=1, R2=9, h=-3			Large black stripes intermixed with white stripes
+9. R1=1, R2=9, h=0			Longer but thinner diagonal black stripes mixed with white stripes
+10. R1=1, R2=9, h=3			More intermixed, continuous stripes with roughly equal black and white
+11. R1=1, R2=9, h=6			Mostly black with several white stripes mixed in
+
+//intermixed patterns that are not straight stripes. 12 and 16 are roughly inverse of each other
+12. R1=1, R2=14, h=-6   Several diagonal stripes of intermixed white and black
+13. R1=1, R2=14, h=-3		Similar structure to step 12, but with larger white stripes	
+14. R1=1, R2=14, h=0		Less regular looking stripes than before, with even wider white stripes
+15. R1=1, R2=14, h=3		Several different patterns emerged:
+													There was several stripes similar to step 12
+													There was one thick column of black surrounded by white
+													There were stripes similar to step 14.
+16. R1=1, R2=14, h=6		Pretty evenly spread black and white stripes, slightly thicker than 12
+
+//in these experiments, the bias seems to have a much larger effect due to the smaller radius
+17. R1=3, R2=5, h=-1		Consists of black stripes that slowly die out to all white
+18. R1=3, R2=5, h=0			Roughly half black connected splotches appear
+19. R1=3, R2=5, h=1			Either entirely black or single white thin stripe appears
+
+//less stripes, but interconnected stripelike structures appear
+//the highest and lowest biases mostly dominate the system
+20. R1=3, R2=9, h=-6		Mostly white with a very few black patches
+21. R1=3, R2=9, h=-3		Mostly white, but with more black patches
+*22. R1=3, R2=9, h=0			The entire system is connected in a strange way, with equal black and white
+23. R1=3, R2=9, h=3			Mostly black with a few semilarge white patches
+24. R1=3, R2=9, h=6			Mostly black with a very few small white patches
+
+//less stripes than usual, more unusual designs appear.
+//bias appears to effect this set less than others, most share semi-equal white and black
+25. R1=3, R2=14, h=-6 	Slightly more white than black, but in mostly connected stripe patterns
+26. R1=3, R2=14, h=-3		Similar to 25, but the white stripes are a little thinner overall
+27. R1=3, R2=14, h=0		Pretty thick white and black stripes appear imperfectly
+28. R1=3, R2=14, h=3		More frequent thinner connected black and white stripes appear
+29. R1=3, R2=14, h=6		Roughly the same black and white, but with an interesting pattern where
+													the black fills the middle and disconnects white stripes
+
+//only horizontal white stripes survive against black. No horizontal white stripes appear.
+30. R1=7, R2=9, h=-1 		The system is dominated by white 3 times and black 1 time
+31. R1=7, R2=9, h=0			Single fat white stripe between two black stripes
+32. R1=7, R2=9, h=1			Single fat white stripe similar to 31. 
+
+//these occasionally have horizontal thick white stripes, otherwise the system will die out
+33. R1=7, R2=14, h=-3		Either divided evenly horizontially between black and white 
+													or diagonal stripes
+34. R1=7, R2=14, h=0		Diagonal patterns die out, thick white stripes occasionally appear
+35. R1=7, R2=14, h=3		Goes entirely black or entirely white
+
+//The only patterns come with a negative bias. 
+36. R1=12, R2=14, h=-2	Diagonal thick evenly spaced stripes, horizontal lines, and pure black
+37. R1=12, R2=14, h=0		All die out to either black or white.
+38. R1=12, R2=14, h=2		All die out to either black or white
