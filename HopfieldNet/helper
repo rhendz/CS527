@@ -1,0 +1,7 @@
+for(p = 0 p < numpatterns ++p)
+	imprintpaterns(p)
+	testpatterns(p)
+}
+
+for(i = 0 i < numpatterns ++i)
+
